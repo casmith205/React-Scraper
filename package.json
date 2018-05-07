@@ -1,0 +1,30 @@
+{
+  "name": "react-scraper",
+  "version": "1.0.0",
+  "description": "Project demonstrating the use of React with a Scraping Tool and DB integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/casmith205/React-Scraper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/casmith205/React-Scraper/issues"
+  },
+  "homepage": "https://github.com/casmith205/React-Scraper#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "mongoose": "^5.0.17",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "react-router": "^4.2.0",
+    "react-scripts": "^1.1.4",
+    "yarn": "^1.6.0"
+  }
+}
